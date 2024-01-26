@@ -1,2 +1,2 @@
 # TIC-TAC-TOE
-TIC TAC TOEusing C language
+TIC TAC TOE using C language
